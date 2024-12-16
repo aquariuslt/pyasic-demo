@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "pyasic-demo"
+version = "0.1.0"
+description = ""
+authors = ["aquariuslt <superaquariuslt@gmail.com>"]
+readme = "README.md"
+package-mode = false
+
+
+[tool.poetry.dependencies]
+python = "^3.12"
+pyasic = "^0.65.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
