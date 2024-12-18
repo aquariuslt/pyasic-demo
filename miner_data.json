@@ -1,0 +1,251 @@
+{
+  "ip": "192.168.11.160",
+  "device_info": {
+    "make": "AvalonMiner",
+    "model": "Avalon Nano 3",
+    "firmware": "Stock",
+    "algo": "SHA256
+    "},"
+    mac
+    ":null,"
+    api_ver
+    ":"
+    3.7
+    ","
+    fw_ver
+    ":"
+    4.11.1
+    ","
+    hostname
+    ":null,"
+    expected_hashrate
+    ":4.10864,"
+    expected_hashboards
+    ":1,"
+    expected_chips
+    ":10,"
+    expected_fans
+    ":1,"
+    env_temp
+    ":61.0,"
+    wattage
+    ":null,"
+    voltage
+    ":null,"
+    fans
+    ":[{"
+    speed
+    ":4680}],"
+    f
+    an_psu
+    ":null,"
+    hashboards
+    ":[{"
+    slot
+    ":0,"
+    hashrate
+    ":3.66082,"
+    temp
+    ":90.0,"
+    chip_temp
+    ":92.0,"
+    chips
+    ":10,"
+    expected_chips
+    ":1
+    0,
+    "serial_number": null,
+    "missing": false,
+    "tuned": null,
+    "active": null,
+    "voltage": null
+  }
+],
+  "config": {
+    "pools": {
+      "groups": [
+        {
+          "
+          pools
+          ":[{"
+          url
+          ":"
+          stratum
+          +
+          tcp: //btc.global.luxor.tech:700","user":"avalon33.jasonhome","password":"x"},{"url":"strat
+          um
+          +
+          tcp: //btc.global.luxor.tech:700","user":"avalon33.jasonhome","password":"x"},{"url":"stratum+tcp://btc.global.l
+          uxor.tech
+          :
+          700
+          ","
+          user
+          ":"
+          avalon33.jasonhome
+          ","
+          password
+          ":"
+          x
+          "}],"
+          quota
+          ":1,"
+          name
+          ":null}]},"
+          fan_mode
+          ":{"
+          mode
+          ":"
+          normal
+          ","
+          minimum_fans
+          ":1,"
+          minimum_speed
+          ":0},"
+          temperature
+          ":{"
+          target
+          ":null,"
+          hot
+          ":null,"
+          danger
+          ":null},"
+          mining_mode
+          ":{"
+          mode
+          ":"
+          n
+          ormal
+          "}},"
+          fault_light
+          ":false,"
+          errors
+          ":[],"
+          is_mining
+          ":true,"
+          uptime
+          ":123098,"
+          pools
+          ":[{"
+          url
+          ":"
+          stratum
+          +
+          tcp: //btc.globa
+          l.luxor.tech
+          :
+          700
+          ","
+          accepted
+          ":6293,"
+          rejected
+          ":24,"
+          get_failures
+          ":2,"
+          remote_failures
+          ":0,"
+          active
+          ":true,"
+          alive
+          ":true,"
+          i
+          ndex
+          ":0,"
+          user
+          ":"
+          avalon33.jasonhome
+          ","
+          pool_rejected_percent
+          ":0.3799271806237138,"
+          pool_stale_percent
+          ":0.031660598385
+          309484
+        },
+        {
+          "url": "stratum+tcp://btc.global.luxor.tech:700",
+          "accepted": 0,
+          "rejected": 0,
+          "get_failures": 0,
+          "remote_failur
+          es
+          ":0,"
+          active
+          ":false,"
+          alive
+          ":true,"
+          index
+          ":1,"
+          user
+          ":"
+          avalon33.jasonhome
+          ","
+          pool_rejected_percent
+          ":0.0,"
+          pool_stale_pe
+          rcent
+          ":0.0},{"
+          url
+          ":"
+          stratum
+          +
+          tcp: //btc.global.luxor.tech:700","accepted":0,"rejected":0,"get_failures":0,"remote_fa
+          ilures
+          ":0,"
+          active
+          ":false,"
+          alive
+          ":true,"
+          index
+          ":2,"
+          user
+          ":"
+          avalon33.jasonhome
+          ","
+          pool_rejected_percent
+          ":0.0,"
+          pool_stal
+          e_percent
+          ":0.0}],"
+          hashrate
+          ":3.66082,"
+          wattage_limit
+          ":125,"
+          total_chips
+          ":10,"
+          nominal
+          ":true,"
+          percent_expected_chips
+          ":1
+          00,
+          "percent_expected_hashrate": 89,
+          "percent_expected_wattage": null,
+          "temperature_avg": 90,
+          "efficiency": null,
+          "datetime
+          ":"
+          2024-12-17T21: 41
+          :
+          51.556704
+          +
+          08: 00
+          ","
+          timestamp
+          ":1734442911,"
+          make
+          ":"
+          AvalonMiner
+          ","
+          model
+          ":"
+          Avalon
+          Nano
+          3
+          ","
+          firmware
+          ":"
+          Stock
+          ","
+          algo
+          ":"
+          SHA256
+          "}

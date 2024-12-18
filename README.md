@@ -20,6 +20,6 @@ poetry install
 poetry run python get_miner.py
 ```
 
-```
+```bash
 poetry run python gather_miner_data.py 
 ```

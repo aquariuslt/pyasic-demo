@@ -487,13 +487,13 @@ anchors = ["unidecode"]
 
 [[package]]
 name = "pyasic"
-version = "0.65.8"
+version = "0.66.1"
 description = "A simplified and standardized interface for Bitcoin ASICs."
 optional = false
 python-versions = "<4.0,>=3.9"
 files = [
-    { file = "pyasic-0.65.8-py3-none-any.whl", hash = "sha256:826ffeb22656c0e4da696496ea7da585aff59362ee1d2fd422e338b3bae68377" },
-    { file = "pyasic-0.65.8.tar.gz", hash = "sha256:3f8acd21a1756ea15cbc70d201a6ce2c227e4a5b7c6135d1a71016a770e09ce7" },
+    { file = "pyasic-0.66.1-py3-none-any.whl", hash = "sha256:25c72ce0f186330e877e6d1a4f78bd977e4d17e1d5faac814024f6169171ca32" },
+    { file = "pyasic-0.66.1.tar.gz", hash = "sha256:fd3f6b5a26bdbf2bb7a75ef7d2acbb988129179584a2db9c7628e2ba3e66a658" },
 ]
 
 [package.dependencies]
@@ -772,4 +772,4 @@ files = [
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "8f637dbb1359594b69e870ccbdff390126c53c8b184186baf8003ec0fc72699e"
+content-hash = "86bcdabeef50e81eb0b6ce62410d8cf5261664b3888c5969d3e567a9276dcb32"
